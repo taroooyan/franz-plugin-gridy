@@ -1,0 +1,23 @@
+{
+  "name": "GRIDY",
+  "version": "1.0.0",
+  "description": "GRIDY",
+  "main": "index.js",
+  "author": "taroooyan <taroooyan@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gridy.jp",
+    "serviceName": "GRIDY",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": true
+  }
+}
